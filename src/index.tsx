@@ -24,7 +24,7 @@ function LoginPage() {
 
         setTimeout(() => { // Try without setTimeout
             setAuthorized(true)
-            // setAuthChecked(true)
+            setAuthChecked(true)
         }, 500)
     }
 
